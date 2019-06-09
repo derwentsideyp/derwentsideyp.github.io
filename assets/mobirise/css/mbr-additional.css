@@ -4432,7 +4432,7 @@ body {
   background-color: #ffffff;
 }
 .cid-rsSKVykAKg .card-box {
-  background-color: #ffffff;
+  background-color: #ffc46c;
   padding: 2rem;
 }
 .cid-rsSKVykAKg h4 {
@@ -4459,6 +4459,9 @@ body {
   left: 0;
   width: 100%;
   overflow: hidden;
+}
+.cid-rsSKVykAKg P {
+  color: #232323;
 }
 .cid-rsSBpJ6hN0 .navbar {
   background: #f4a124;
